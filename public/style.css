@@ -1,0 +1,28 @@
+body{
+    font-family: Arial, Helvetica, sans-serif, sans-serif, sans-serif;
+    background-image: url('/Assets/bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.center-div{
+    padding:6% 5%;
+
+}
+
+.btn.btn-success{
+    margin-top: 10px;
+    padding: 2px 12px;
+}
+
+form{
+    padding: 0 3%;
+}
+.container{
+    border: solid grey 1.5px;
+    border-radius: 2% 2%;
+}
+span{
+    font-size: 14px;
+}
